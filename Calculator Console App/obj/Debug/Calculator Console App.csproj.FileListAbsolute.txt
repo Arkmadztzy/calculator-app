@@ -1,0 +1,8 @@
+D:\pemrograman\pertemuan1\Calculator Console App\Calculator Console App\bin\Debug\Calculator Console App.exe.config
+D:\pemrograman\pertemuan1\Calculator Console App\Calculator Console App\bin\Debug\Calculator Console App.exe
+D:\pemrograman\pertemuan1\Calculator Console App\Calculator Console App\bin\Debug\Calculator Console App.pdb
+D:\pemrograman\pertemuan1\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.csproj.AssemblyReference.cache
+D:\pemrograman\pertemuan1\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.csproj.SuggestedBindingRedirects.cache
+D:\pemrograman\pertemuan1\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.csproj.CoreCompileInputs.cache
+D:\pemrograman\pertemuan1\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.exe
+D:\pemrograman\pertemuan1\Calculator Console App\Calculator Console App\obj\Debug\Calculator Console App.pdb
